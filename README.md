@@ -1,6 +1,6 @@
 Проект на практику 2 курс 2023
 
-Продукт для работников онкологического центра. Веб версия нашего [декстопного приложения]([https://their-org.github.io/repo/](https://github.com/606LXRD/neuralProject))
+Продукт для работников онкологического центра. Веб версия нашего [декстопного приложения]([https://their-org.github.io/repo/](https://github.com/606LXRD/neuralProject)
 
 Основные сценарии
 
